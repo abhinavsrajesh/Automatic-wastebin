@@ -34,8 +34,12 @@ The NodeMCU Automatic Wastebin project automates wastebin operations and provide
 6. Power on the system and monitor the wastebin status remotely via the Blynk app.
 
 ## Contribution
-Contributions to the project are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+ABHINAV S RAJESH
+HARIKRISHNAN K
+ADITHYA KRISHNA C A 
+CHITHRAPRIYA S
+CYRIL POLY
+AKHINA T
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
